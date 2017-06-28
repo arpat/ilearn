@@ -18,7 +18,7 @@ A curated list of **free** resources that gets you playing with a technology eas
 
 
 ## Katacoda
-### Browser Based (Guided) Playground. Recommended!
+#### Browser Based (Guided) Playground. Recommended!
 
 - [The Katacoda Learning Environment](https://www.katacoda.com/learn)
 - [Git Version Control](https://www.katacoda.com/courses/githttps://www.katacoda.com/courses/git)
@@ -27,14 +27,14 @@ A curated list of **free** resources that gets you playing with a technology eas
 
 ## Data Science 
 
-### Learn Big Data Techniques and Tools
+#### Learn Big Data Techniques and Tools
 - [Dataquest](https://www.dataquest.io/)
 - [DataCamp](https://www.datacamp.com/)
 
 
 ## Machine Learning
 
-### Fundamentals and Concepts of Machine Learning
+#### Fundamentals and Concepts of Machine Learning
 - [edX Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-1)
 - [Machine Learning Mastery](http://machinelearningmastery.com/)
 
