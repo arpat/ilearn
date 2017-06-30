@@ -11,9 +11,11 @@ A curated list of **free** resources that gets you playing with a technology eas
 
 - [Data Science](#data science)
 
+- [Programming](#programming)
+
 ## Awesome
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [sindresorhus's awesome list](https://github.com/sindresorhus/awesome)
 
 
 
@@ -39,3 +41,6 @@ A curated list of **free** resources that gets you playing with a technology eas
 - [Machine Learning Mastery](http://machinelearningmastery.com/)
 
 
+## Programming
+- [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
+A workshop covering all the tools gophers use in their day to day life
