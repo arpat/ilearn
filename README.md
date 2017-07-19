@@ -1,6 +1,6 @@
-# I Learnt Stuff From...
+# I Learni from...
 
-A curated list of **free** resources that gets you playing with a technology easily.
+## A curated list of **free** resources that gets you playing with a technology easily.
 
 
 ## Contents
